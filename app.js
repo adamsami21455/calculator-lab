@@ -3,7 +3,6 @@ const numberElements = document.querySelectorAll(".number")
 const operatorElements = document.querySelectorAll(".operator")
 const equalsElement = document.querySelector(".equals")
 const displayElement = document.querySelector('.display')
-const resultElement = document.querySelector ('.result')
 
 /*-------------------------------- Variables --------------------------------*/
 let number1 = ('')
